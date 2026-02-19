@@ -1,0 +1,17 @@
+{
+  "name": "courrier-mairie",
+  "version": "1.0.0",
+  "description": "Plugin de traitement du courrier du maire de Gennevilliers. Regroupe 12 compétences thématiques pour la rédaction de réponses personnalisées aux courriels des habitants : commerce, culture, éducation, Gennevilliers Habitat, logement, petite enfance, ressources humaines, sport, stationnement, tranquillité publique, vie quotidienne, voirie et propreté.",
+  "author": {
+    "name": "Jean-François Boyé",
+    "email": "jfboye01@gmail.com"
+  },
+  "keywords": [
+    "courrier",
+    "maire",
+    "collectivité territoriale",
+    "Gennevilliers",
+    "correspondance",
+    "habitants"
+  ]
+}
