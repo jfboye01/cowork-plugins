@@ -1,0 +1,21 @@
+{
+  "name": "courrier-mairie",
+  "owner": {
+    "name": "Jean-François BOYÉ",
+    "email": "jfboye01@gmail.com"
+  },
+  "plugins": [
+    { "name": "courrier-commerce", "source": "./courrier-commerce", "description": "Réponses courriels commerce" },
+    { "name": "courrier-culture", "source": "./courrier-culture", "description": "Réponses courriels culture" },
+    { "name": "courrier-education", "source": "./courrier-education", "description": "Réponses courriels éducation" },
+    { "name": "courrier-gennevilliers-habitat", "source": "./courrier-gennevilliers-habitat", "description": "Réponses courriels GH" },
+    { "name": "courrier-logement", "source": "./courrier-logement", "description": "Réponses courriels logement" },
+    { "name": "courrier-petite-enfance", "source": "./courrier-petite-enfance", "description": "Réponses courriels petite enfance" },
+    { "name": "courrier-ressources-humaines", "source": "./courrier-ressources-humaines", "description": "Réponses courriels RH" },
+    { "name": "courrier-sport", "source": "./courrier-sport", "description": "Réponses courriels sport" },
+    { "name": "courrier-stationnement", "source": "./courrier-stationnement", "description": "Réponses courriels stationnement" },
+    { "name": "courrier-tranquillite-publique", "source": "./courrier-tranquillite-publique", "description": "Réponses courriels tranquillité" },
+    { "name": "courrier-vie-quotidienne", "source": "./courrier-vie-quotidienne", "description": "Réponses courriels vie quotidienne" },
+    { "name": "courrier-voirie-proprete", "source": "./courrier-voirie-proprete", "description": "Réponses courriels voirie" }
+  ]
+}
